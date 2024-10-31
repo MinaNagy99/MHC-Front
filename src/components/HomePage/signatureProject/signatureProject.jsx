@@ -1,5 +1,5 @@
 import React from "react";
-import SectionHeader from "../../shared/sectionHeader";
+import SectionHeader from "../../shared/sectionHeader/sectionHeader";
 import Paragraph from "../../shared/paragraph";
 import Slider from "./slider/Slider";
 
@@ -12,8 +12,6 @@ function SignatureProject() {
 Engineering, Innovative Architectural Design, and Sustainable Energy Management Solutions."
       />
       <Slider />
-      
-
     </>
   );
 }

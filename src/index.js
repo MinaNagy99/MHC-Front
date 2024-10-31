@@ -10,6 +10,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
     <App />
+
+    <h1>hello</h1>
   </BrowserRouter>
 );
 

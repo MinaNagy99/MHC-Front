@@ -1,7 +1,9 @@
 import React from "react";
-import SectionHeader from "../../shared/sectionHeader";
+import SectionHeader from "../../shared/sectionHeader/sectionHeader";
 import "./secondSection.css";
 import Paragraph from "../../shared/paragraph";
+// import Icon from "../../../assets/icon.svg";
+
 function SecondSection() {
   const industries = [
     {

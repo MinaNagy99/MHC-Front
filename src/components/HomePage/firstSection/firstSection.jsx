@@ -1,7 +1,6 @@
 import React from "react";
 
 function FirstSection() {
-
   return (
     <>
       <video
@@ -11,7 +10,6 @@ function FirstSection() {
         loop
         src="/homePage/firstSection.mp4"
       ></video>
-
     </>
   );
 }

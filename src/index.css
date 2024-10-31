@@ -1,8 +1,10 @@
-
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --mainGold: #C5A363
+}
 
 body {
   margin: 0;
