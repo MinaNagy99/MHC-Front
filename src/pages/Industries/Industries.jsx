@@ -26,7 +26,7 @@ function Industries() {
         icon={FaHelmetSafety}
       />
       <IndustryCard
-        img="/industryPage/3.jpg"
+        img="/industryPage/4.jpg"
         firstWord="Marine and offshore"
         secondWord="structures"
         p="Mosaic Holding Corporation brings specialized expertise in the design and development of marine and offshore structures. for the oil, gas, and renewable energy sectors, is valued at $128 billion in 2024. This industry includes projects like offshore wind farms, oil rigs, and port developments. Market drivers include the expansion of 
@@ -34,7 +34,7 @@ renewable energy initiatives (offshore wind) and the ongoing global demand for o
         icon={HiOutlineWrenchScrewdriver}
       />
       <IndustryCard
-        img="/industryPage/3.jpg"
+        img="/industryPage/5.jpg"
         firstWord="Energy "
         secondWord="Management"
         p="Mosaic Holding Corporation supports industries in managing their energy needs through sustainable and cost
