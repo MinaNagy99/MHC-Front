@@ -7,23 +7,23 @@ import Paragraph from "../../shared/paragraph";
 function SecondSection() {
   const industries = [
     {
-      icon: "fa-solid fa-lightbulb",
+      icon: "fa-regular fa-lightbulb",
       name: "Architecture and urban planning",
     },
     {
-      icon: "fa-solid fa-brain",
+      icon: "fa-regular fa-brain",
       name: "Engineering",
     },
     {
-      icon: "fa-solid fa-helmet-safety",
+      icon: "fa-regular fa-helmet-safety",
       name: "Oil and gas",
     },
     {
-      icon: "fa-solid fa-screwdriver-wrench",
+      icon: "fa-regular fa-screwdriver-wrench",
       name: "Marine and offshore structures",
     },
     {
-      icon: "fa-solid fa-gear",
+      icon: "fa-regular fa-gear",
       name: "Energy Management",
     },
   ];
